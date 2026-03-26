@@ -4,7 +4,7 @@
 ### Home page
 ### About us page
 
-## josias4054050 tasks:
+## Developer tasks:
 ### Developing
 ### Services page
 ### contact us page
