@@ -4,7 +4,7 @@
 ### Home page
 ### About us page
 
-## josias4054050 tasks:
+## Leader servant task:
 ### Developing
 ### Services page
 ### contact us page
